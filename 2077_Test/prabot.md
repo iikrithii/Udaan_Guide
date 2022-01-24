@@ -9,7 +9,7 @@ starred: "false"
 alt: "prabot__text_if_images_fail_to_load"
 ---
 
-![prabot](./images/image.jpg)
+![prabot](./images/prabot.jpg)
 
 He is like the peoples president no? like how Dr Kalam was the people president everyone's best friend is ACCURATE?! I hope someone says he is a psychopath. What is his IQ you ask? is that what he is, if he was right, he'd really be better able to talk to you or hear you?"
 
