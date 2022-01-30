@@ -48,5 +48,4 @@ And finally, develop new life goals that are more in line with your newly discov
 
 In conclusion, we want you to understand that going through a quarter life crisis is okay. It is okay to accept you’re going through one and approach someone when you need help. The fear of judgement should not hold you back. What matters is your mental well being. Seek out a person who won’t judge you. You can contact GCU (https://iittp.ac.in/gcu/) for any help you might need. No matter how silly you might initially think the issue is, reaching out is important. And FYI, nothing is silly.                                       
 
->Paraphrased by,                        
- Sathyanarayann and Mohith
+

@@ -16,5 +16,4 @@ A child looks at the world in such wonder, with so much awe and admiration for e
 
 **Where did it all go wrong?**                                
 
->Paraphrased by,                                       
- Mohith and Sneha
+

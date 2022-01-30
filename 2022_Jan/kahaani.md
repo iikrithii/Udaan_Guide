@@ -16,7 +16,7 @@ alt: "कहानी सो रही है"
 <p style="text-align: center;align:center;">सुस्ता रही थी  </p>
 <p style="text-align: center;align:center;">तो कोई मेहनतकश थी जो सारे वक़्त </p>
 <p style="text-align: center;align:center;">पसीना बहा रही थी  </p>
-<p style="text-align: center;align:center;"> </p>
+<p style="text-align: center;align:center;"><br> </p>
 <p style="text-align: center;align:center;">हर कहानी की अलग कहानी रही होगी </p>
 <p style="text-align: center;align:center;">पर अंजाम सबका एक ही हैं </p>
 <p style="text-align: center;align:center;">थकान होगी सबकी अलग-अलग </p>
