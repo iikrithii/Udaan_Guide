@@ -9,13 +9,13 @@ starred: "false"
 alt: "Broken Shards"
 ---
 
-<p style="text-align: center;align:center;">At the corner of the street,</p>
-<p style="text-align: center;align:center;">Under some stranger’s eave, </p>
-<p style="text-align: center;align:center;">Dressed in mismatched tatters, </p>
-<p style="text-align: center;align:center;">With a ripped-out sleeve, </p>
-<p style="text-align: center;align:center;">Sitting on the bundled woods, </p>
-<p style="text-align: center;align:center;">Covered by a torn sheet. </p>
-<p style="text-align: center;align:center;"><br></p>
+<p style="text-align: center;align:center;">At the corner of the street,<br>
+Under some stranger’s eave, <br>
+Dressed in mismatched tatters, <br>
+With a ripped-out sleeve, <br>
+Sitting on the bundled woods, <br>
+Covered by a torn sheet. <br>
+</p>
 <p style="text-align: center;align:center;">While the cold wind blows, </p>
 <p style="text-align: center;align:center;">She holds the sheets more tight, </p>
 <p style="text-align: center;align:center;">Bulb glows over her head, </p>
