@@ -16,7 +16,7 @@ alt: "Dream Beauty"
 <p style="text-align: center;align:center;">I rubbed my eyes for reality,</p>
 <p style="text-align: center;align:center;">To my awe, nothing changed,</p>
 <p style="text-align: center;align:center;">Still she was looking at me.</p>
-<p style="text-align: center;align:center;"> </p>
+<p style="text-align: center;align:center;"> <br></p>
 <p style="text-align: center;align:center;">She sits down on the sand,</p>
 <p style="text-align: center;align:center;">Moving her hands gracefully,</p>
 <p style="text-align: center;align:center;">Starts to build a sand castle,</p>
@@ -25,7 +25,7 @@ alt: "Dream Beauty"
 <p style="text-align: center;align:center;">Go down to beach to see,</p>
 <p style="text-align: center;align:center;">Yet I stood by the window,</p>
 <p style="text-align: center;align:center;">Afraid, she might run from me.</p>
-<p style="text-align: center;align:center;"> </p>
+<p style="text-align: center;align:center;"><br> </p>
 <p style="text-align: center;align:center;">After I don’t know how long,</p>
 <p style="text-align: center;align:center;">Beside the castle, stands she,</p>
 <p style="text-align: center;align:center;">In front of her castle’s gate,</p>
@@ -34,7 +34,7 @@ alt: "Dream Beauty"
 <p style="text-align: center;align:center;">And the left one to me,</p>
 <p style="text-align: center;align:center;">She symbolizes with her gestures,</p>
 <p style="text-align: center;align:center;">The last one as our child to be.</p>
-<p style="text-align: center;align:center;"> </p>
+<p style="text-align: center;align:center;"><br> </p>
 <p style="text-align: center;align:center;">The sparkling beads on her face,</p>
 <p style="text-align: center;align:center;">And the smile on it for me,</p>
 <p style="text-align: center;align:center;">The content and love in her eyes,</p>
@@ -43,7 +43,7 @@ alt: "Dream Beauty"
 <p style="text-align: center;align:center;">Somehow, she stands in front of me,</p>
 <p style="text-align: center;align:center;">Keeps her palm on the window glass,</p>
 <p style="text-align: center;align:center;">To place my palm on hers, she asks me.</p>
-<p style="text-align: center;align:center;"> </p>
+<p style="text-align: center;align:center;"><br> </p>
 <p style="text-align: center;align:center;">The moment I place my palm on hers’,</p>
 <p style="text-align: center;align:center;">A thunder blasts from above me,</p>
 <p style="text-align: center;align:center;">Next I was all covered by sand,</p>
@@ -52,7 +52,7 @@ alt: "Dream Beauty"
 <p style="text-align: center;align:center;">She had been snatched from me,</p>
 <p style="text-align: center;align:center;">A hole was made right through heart,</p>
 <p style="text-align: center;align:center;">Then I heard someone calling me.</p>
-<p style="text-align: center;align:center;"> </p>
+<p style="text-align: center;align:center;"><br> </p>
 <p style="text-align: center;align:center;">When I opened my wet eyes,</p>
 <p style="text-align: center;align:center;">I found my friend waking me,</p>
 <p style="text-align: center;align:center;">To my relief, it was a dream,</p>
