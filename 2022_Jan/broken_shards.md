@@ -2,7 +2,7 @@
 title: "Broken Shards"
 category: "Poetry"
 date: "2021-01-28 10:00:00 +09:00"
-desc: "Truth, Hope and Heart. What do all these have in common? If they're broken once, giving them to another is very duanting. You can never truly believe they won't be broken again. "
+desc: "They say a broken heart never loves again, but does the longing for love ever truly die? "
 thumbnail: "./images/shards.jpg"
 authors: "Iftekhar Ahmed"
 starred: "false"
