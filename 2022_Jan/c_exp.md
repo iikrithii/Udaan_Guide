@@ -3,7 +3,7 @@ title: "College Experiences"
 category: "Experiences"
 date: "2021-01-28 10:00:00 +09:00"
 desc: ""
-thumbnail: 
+thumbnail: "./images/ce.jpg"
 authors: "Preethi and Sathya"
 starred: "false"
 alt: "College Experiences"
