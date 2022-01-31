@@ -2,7 +2,7 @@
 title: "Summer"
 category: "Story"
 date: "2021-01-28 10:00:00 +09:00"
-desc: "A beautiful letter written to a girl Summer, detailing how love and memories age with time"
+desc: "They say love heals, but what if it’s not meant to be? Join Sarvesh to see the scars of love that never heal."
 thumbnail: "./images/summer.png"
 authors: "Sarvesh Nikas"
 starred: "false"
