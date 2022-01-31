@@ -2,7 +2,8 @@
 title: "Dream Beauty"
 category: "Poetry"
 date: "2021-01-28 10:00:00 +09:00"
-desc: "Have you ever let a dream confuse you? Made you wonder what was real and what was not? here is a poem that describes this feeling"
+desc: "“Where are you now? Was it all in my fantasy? Where are you now? Were you only imaginary?”
+Faded-Alan Walker"
 thumbnail: "./images/dreams.jpg"
 authors: "Iftekhar Ahmed"
 starred: "false"
