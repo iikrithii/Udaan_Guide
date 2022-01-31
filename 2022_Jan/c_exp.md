@@ -14,19 +14,17 @@ Despite the pandemic refusing to let the world out of its clutches, 2021 was a y
 Join the authors as they share their college life experiences in 2021. While few offer a reality check, others deliver an emotional ride. Either way, they are sure to give you a great time reading.
 
 ****
-
-## Table of Contents:
-- Just a minute from four years - Keshav  Kumar (B-Tech 2021)
-- The Inception - 4v (B-Tech 2021)
-- Bunch of Smiles - Hiranmai (B-Tech 2020)
-- College Experience’21 - Shubham Ahirwar (B-Tech 2021)
-- O3: Online - Offline - Online - Anonymous (B-Tech 2020)
-- My college Experience -Reshma R (M-Tech 2021)
-- College Experiences - Arup Biswas (B-Tech 2021)
-- Tables Turned - Swathi (B-Tech 2020)
-- College Life  - V Sathyanarayann (B-Tech 2020)
-
-****
+## Table of Contents
+   - [ Just a minute from four years! - Keshav  Kumar (B-Tech 2021)](#[-just-a-minute-from-four-years!)
+   - [ The Inception - 4v (B-Tech 2021)](#[-the-inception)
+   - [ Bunch of Smiles - Hiranmai (B-Tech 2020)](#[-bunch-of-smiles.)
+   - [ College Experience’21 - Shubham Ahirwar (B-Tech 2021)](#[-college-experience’21)
+   - [ O3: Online - Offline - Online - Anonymous (B-Tech 2020)](#[-o3:-online---offline---online:)
+   - [ My college experience - My college Experience -Reshma R (M-Tech 2021)](#[-my-college-experience)
+   - [ College experiences - Arup Biswas (B-Tech 2021)](#[-college-experiences)
+   - [ Tables Turned - Swathi (B-Tech 2020)](#[-tables-turned)
+   - [ College life - V Sathyanarayann (B-Tech 2020)](#[-college-life)
+---
 
 ## Just a minute from four years!  
 
