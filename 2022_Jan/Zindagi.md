@@ -2,7 +2,7 @@
 title: "दीदार -ए- जिंदगी"
 category: "Poetry"
 date: "2021-01-28 10:00:00 +09:00"
-desc: "A poem that describes life, it's challenges and a tackling approach."
+desc: "Join Abhishek in his ode to life and its challenges, with the spirit to prevail above it all."
 thumbnail: "./images/zindagi.png"
 authors: "Abhishek"
 starred: "false"
